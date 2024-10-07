@@ -1,0 +1,2 @@
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\osx-x64\publish\WebSocket.pdb
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\osx-x64\publish\WebSocket

@@ -1,0 +1,6 @@
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\publish\WebSocket.exe
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\publish\WebSocket.dll
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\publish\WebSocket.deps.json
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\publish\WebSocket.runtimeconfig.json
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\publish\WebSocket.pdb
+C:\Users\addyi\source\repos\WebSocket2\WebSocket\bin\Release\net8.0\publish\websocket-sharp.dll
