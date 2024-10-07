@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K70EKTI+sro=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\addyi\\source\\repos\\WebSocket\\WebSocket-Chatroom\\WebSocket\\WebSocket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\addyi\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
